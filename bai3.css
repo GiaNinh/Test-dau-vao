@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial;
+  }
+
+section{
+    margin: 5%;
+}
+
+.nav{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.user{
+    font-size: 32px;
+    font-weight: 900;
+    border: 3px solid rgb(219, 219, 23);
+}
+
+.search .icon{
+    border: 1px;
+}
+.search{
+    border: 2px solid;
+    border-color: aqua;
+    margin-top: 15px;
+    margin-right: 50px;
+    display: flexbox;
+}
+.menu{
+    display: flex;
+    text-align: center;
+}
+span{
+    font-size: 15px;
+    margin: 15px ;
+}
