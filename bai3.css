@@ -30,7 +30,7 @@ section{
     border-color: aqua;
     margin-top: 15px;
     margin-right: 50px;
-    display: flexbox;
+    display: flex;
 }
 .menu{
     display: flex;
