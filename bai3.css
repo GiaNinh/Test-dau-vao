@@ -14,12 +14,12 @@ section{
 .nav{
     margin-top: 100px;
     margin-left: 100px;
+    width: 200px;
 }
 
 .user{
     font-size: 32px;
     font-weight: 900;
-    border: 3px solid rgb(219, 219, 23);
 }
 
 .search .icon{
@@ -38,5 +38,17 @@ section{
 }
 span{
     font-size: 15px;
-    margin: 15px ;
+    padding: 15px ;
+    margin:0 20px ;
+}
+input{
+    border: 0;
+}
+.menu2{
+    display: flex;
+}
+.boxcolor{
+    background-color: rgb(108, 35, 245);
+    flex: none;
+    border-radius: 3px;
 }
